@@ -13,3 +13,7 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# 実行時の生成物
+*.log
+books_*.md
